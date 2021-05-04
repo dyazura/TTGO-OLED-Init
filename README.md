@@ -7,6 +7,7 @@ Hi! Upload kali ini hanya sebatas inisiasi board TTGO OLED with builtin 13850 ba
 
 # Device Configuration
 ![TTGO OLED 13850](https://github.com/app-js/TTGO-ESP32-OLED-0.96-LED-16-Nextion-3.5/raw/master/img/ttgo_p0.jpg)
+
 **TTGO OLED PIN Configuration**
 ![TTGO OLED PIN Config](https://github.com/app-js/TTGO-ESP32-OLED-0.96-LED-16-Nextion-3.5/raw/master/img/ttgo_pinout.jpg)
 
